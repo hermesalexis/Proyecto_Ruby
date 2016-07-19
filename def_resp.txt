@@ -1,0 +1,23 @@
+Lenguaje que hace referencia al lenguaje de marcado para la elaboración de páginas web.
+html
+
+Lenguaje usado para definir y crear la presentación de un documento estructurado escrito en HTML o XML
+css
+
+Proceso de analizar una secuencia de símbolos a fin de determinar su estructura gramatical con respecto a una gramática formal dada. 
+parceo
+
+Lenguaje de Programación creado por Yukihiro “Matz” Matsumoto
+ruby
+
+Técnica de programación basada en varias técnicas, incluyendo herencia, cohesión, abstracción, polimorfismo, acoplamiento y encapsulamiento.
+poo
+
+Ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que sólo se pueda cambiar mediante las operaciones definidas para ese objeto.
+encapsulamiento.
+
+Método cuya misión es inicializar un objeto de una clase
+constructor
+
+Relajación del sistema de tipos, de tal manera que una referencia a una clase (atributo, parámetro o declaración local o elemento de un vector) acepta direcciones de objetos de dicha clase y de sus clases derivadas (hijas, nietas, …)
+polimorfismo
