@@ -14,7 +14,7 @@ Técnica de programación basada en varias técnicas, incluyendo herencia, cohesión
 poo
 
 Ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que sólo se pueda cambiar mediante las operaciones definidas para ese objeto.
-encapsulamiento.
+encapsulamiento
 
 Método cuya misión es inicializar un objeto de una clase
 constructor
